@@ -6,7 +6,7 @@ local pluginName = package:match("^kong%-plugin%-(.+)$")
 
 supported_platforms = {"linux"}
 source = {
-  url = "https://github.com/oldwatch/gateway-plugin.git",
+  url = "https://github.com/oldwatch/wechat-gateway-plugin.git",
   tag = "0.1.0"
 }
 

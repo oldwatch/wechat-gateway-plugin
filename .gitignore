@@ -1,0 +1,8 @@
+.*
+!.gitignore
+
+**/*.rock
+
+!lib/*.rock 
+
+**/_test_*.lua
